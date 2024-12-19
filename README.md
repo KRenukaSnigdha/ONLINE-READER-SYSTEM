@@ -49,7 +49,7 @@ An Online Reader System that allows users to manage books, create personalized b
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/online-reader-system.git
+   git clone https://github.com/KRenukaSnigdha/ONLINE-READER-SYSTEM.git
    cd online-reader-system
     ```
 2. Navigate to the src directory:
@@ -83,7 +83,7 @@ This will render the directory structure neatly in Markdown format.
 
 ---
 
-How to Use
+## How to Use
 
 1. Add users to the system.
 
@@ -107,7 +107,7 @@ How to Use
 
 ---
 
-Future Enhancements
+## Future Enhancements
 
 Integration with a database (e.g., MySQL, PostgreSQL) for data persistence.
 
@@ -129,7 +129,7 @@ User authentication and roles (e.g., admin, reader).
 
 ---
 
-Contributing
+## Contributing
 
 Contributions are welcome! Feel free to fork the repository, make changes, and submit a pull request.
 
