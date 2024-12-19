@@ -121,6 +121,14 @@ User authentication and roles (e.g., admin, reader).
 
 ---
 
+
+## Resources
+
+- [Video Overview](https://www.youtube.com/watch?v=UMoaT14eiXc)
+
+
+---
+
 Contributing
 
 Contributions are welcome! Feel free to fork the repository, make changes, and submit a pull request.
