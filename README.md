@@ -71,9 +71,13 @@ java main.Main
 
 ---
 
-Project Structure
+## Project Structure
 
-src/ ├── main/ │ ├── Main.java // Main entry point for the system. ├── models/ │ ├── Book.java // Represents a book entity. │ ├── Bookshelf.java // Manages user-specific bookshelves. │ ├── Library.java // Central repository for books. │ ├── OnlineReaderSystem.java // Core functionality and interactions. │ ├── User.java // Represents a user. │ ├── UserManager.java // Handles user management tasks.   // Handles user management tasks.
+src/ ├── main/ │   ├── Main.java           // Main entry point for the system. ├── models/ │   ├── Book.java           // Represents a book entity. │   ├── Bookshelf.java      // Manages user-specific bookshelves. │   ├── Library.java        // Central repository for books. │   ├── OnlineReaderSystem.java // Core functionality and interactions. │   ├── User.java           // Represents a user. │   ├── UserManager.java    // Handles user management tasks.
+
+
+
+This will render the directory structure neatly in Markdown format.
 
 
 ---
