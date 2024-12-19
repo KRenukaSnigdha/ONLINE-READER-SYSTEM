@@ -51,21 +51,21 @@ An Online Reader System that allows users to manage books, create personalized b
    ```bash
    git clone https://github.com/your-username/online-reader-system.git
    cd online-reader-system
-
+    ```
 2. Navigate to the src directory:
  ```bash
 cd src
-
+```
 
 3. Compile the project:
  ```bash
 javac main/Main.java
-
+```
 
 4. Run the project:
  ```bash
 java main.Main
-
+```
 
 
 
